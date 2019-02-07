@@ -20,7 +20,7 @@ class SearchBar extends React.Component {
                         <div className="col-md-10">
                             <div className="card card-body mt-3 shadow-sm">
                                 <form onSubmit={this.handleSubmit}>
-                                    <input type="text" onChange={this.handleChange} placeholder="search your favorite videos" value={this.state.term} className="form-control" />
+                                    <input type="text" onChange={this.handleChange} autoFocus placeholder="search your favorite videos" value={this.state.term} className="form-control" />
                                 </form>
                             </div>
                         </div>

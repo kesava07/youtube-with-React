@@ -10,6 +10,13 @@ body {
   padding: 0 !important;
 }
 .videos-section{
-  height: 80px;
+  height: 100px;
   cursor: pointer;
+}
+.video_description{
+  font-size: 0.8rem;
+}
+.video_header{
+  font-size: 1.07142857rem;
+  font-weight: 600;
 }

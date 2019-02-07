@@ -13,7 +13,7 @@ const VideosList = ({ videos, handleselect }) => {
     return (
         <div>
             <div className="card card-body shadow-sm">
-                <h4 className="text-center">Videos List</h4>
+                <h5 className="text-center">Videos List</h5>
                 {renderedVideos}
             </div>
         </div>
