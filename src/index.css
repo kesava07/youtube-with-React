@@ -4,3 +4,12 @@ body {
   font-family: "Open Sans",sans-serif !important;
   background-color: #d3d3d32e !important;
 }
+.videoDeatils{
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0 !important;
+}
+.videos-section{
+  height: 80px;
+  cursor: pointer;
+}
