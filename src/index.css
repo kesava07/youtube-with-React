@@ -20,3 +20,11 @@ body {
   font-size: 1.07142857rem;
   font-weight: 600;
 }
+#map{
+  height: 450px;
+}
+#map div:nth-child(1){
+  width: 100% !important;
+  height: 100% !important;
+  position: relative !important;
+}
